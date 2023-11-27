@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivansh</h1>
 <h3 align="center">A passionate Full stack developer.</h3>
-<img align="center" alt="Coding" height="500" width="900"src="https://media.istockphoto.com/id/537331500/photo/programming-code-abstract-technology-background-of-software-deve.jpg?s=612x612&w=0&k=20&c=jlYes8ZfnCmD0lLn-vKvzQoKXrWaEcVypHnB5MuO-g8=")
+<img align="center" alt="Coding" height="300" width="1000"src="https://media.istockphoto.com/id/537331500/photo/programming-code-abstract-technology-background-of-software-deve.jpg?s=612x612&w=0&k=20&c=jlYes8ZfnCmD0lLn-vKvzQoKXrWaEcVypHnB5MuO-g8=")
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shivanxshh&label=Profile%20views&color=0e75b6&style=flat" alt="shivanxshh" /> </p>
 
